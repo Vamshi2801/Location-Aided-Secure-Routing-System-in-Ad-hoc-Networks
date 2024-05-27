@@ -1,9 +1,4 @@
 # Location-Aided-Secure-Routing-System-in-Ad-hoc-Networks
-Here's a detailed description of the paper to include in your GitHub README file:
-
----
-
-Location Aided Secure Routing System in Ad-Hoc Networks
 
 Authors:
 Sai Kishore Reddy, P., Hari Kishan Reddy, A., Vamshi Krishna Reddy, K., Suresh, L., Giri, A.
